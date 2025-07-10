@@ -20,7 +20,7 @@ This exercise will introduce you to a variety of concepts, with links to support
 
 ## Prerequisites
 
-You'll need an Azure subscription and a very small set of tools and skills to get started:
+You'll need an Azure subscription and a small set of tools and skills to get started:
 
 1. An Azure subscription. Sign up [for free](https://azure.microsoft.com/free/).
 2. A GitHub account, with access to GitHub Actions.
